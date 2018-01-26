@@ -2,7 +2,7 @@
   "name": "nexchange-lean-client-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://zuher1.github.io/bitnoww",
+  "homepage": "https://zuher1.github.io",
   "dependencies": {
     "autoprefixer": "7.1.2",
     "axios": "^0.16.2",
