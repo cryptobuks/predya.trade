@@ -1,6 +1,6 @@
 const config = {
 	NAME: 'Bitnoww',
-	DOMAIN: 'https://zuher1.github.io/bitnoww',
+	DOMAIN: 'https://zuher1.github.io',
 	API_BASE_URL: 'https://api.nexchange.io/en/api/v1',
 	SUPPORT_EMAIL: 'support@nexchange.io',
 	PRICE_FETCH_INTERVAL: 60000,
