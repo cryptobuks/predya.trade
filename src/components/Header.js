@@ -39,9 +39,10 @@ class Header extends Component {
 				        	<span className="icon-bar"></span>
 				    	</button>
 
-				    	<Link to="/">
-				        	<div className="logo-container">
+				    	<Link to="http://bitnoww.com" target="_blank">
+							<div className="logo-container">
 				        		<img src="/img/logo.png" />
+				                {/* <h1 className="header-text">bitn<span className="text-green">o</span>ww</h1> */}
 							</div>
 				      	</Link>
 				    </div>
@@ -56,9 +57,9 @@ class Header extends Component {
 								<a href="javascript:void(0)" onClick={() => this.setState({showFaqModal: true})}>FAQ</a>
 							</li>
 
-				    		<li>
+				    		{/* <li>
 				    			<a href="http://docs.nexchange2.apiary.io/" target="_blank" onClick={() => ga('send', 'event', 'General', 'api docs click')}>API Docs</a>
-				    		</li>
+				    		</li> */}
 
 							<li>
 								<a href="/#compare" onClick={() => scrollToElement('#compare')}><span className="hidden-sm">Compare </span>Rates</a>
@@ -68,7 +69,7 @@ class Header extends Component {
 								<a href="javascript:void(0)" onClick={() => this.setState({showSupportModal: true})}>Support</a>
 							</li>
 
-							<li className="social-mobile">
+							{/* <li className="social-mobile">
 								<a href="https://twitter.com/NexchangeIO" target="_blank" className="btn btn-simple btn-just-icon visible-xs">
 									<i className="fa fa-twitter" aria-hidden="true"></i>
 								</a>
@@ -98,7 +99,7 @@ class Header extends Component {
 								<a href="https://join.slack.com/t/nexchangecommunity/shared_invite/MjM0OTU1ODc4NTkyLTE1MDQ0Mzc3NjEtYzZiMTYxMjdhNA" target="_blank" className="btn btn-simple btn-just-icon" rel="tooltip" title="" data-placement="bottom" data-original-title="Join us on Slack">
 									<i className="fa fa-slack" aria-hidden="true"></i>
 								</a>
-							</li>
+							</li> */}
 				    	</ul>
 				    </div>
 
