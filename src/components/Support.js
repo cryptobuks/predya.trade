@@ -107,7 +107,7 @@ class Support extends Component {
             
               <div className="col-xs-12 col-sm-6">
                 <h3>Email</h3>
-                <p><a href="mailto:support@bitnoww.com">support@bitnoww.com</a></p>
+                <p><a href="mailto:support@predya.trade">support@predya.trade</a></p>
               </div>
             </div>
 

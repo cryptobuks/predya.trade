@@ -151,7 +151,7 @@ class Order extends Component {
 				<div className="container">
 					<div className="row">
 					    <div id="order-header" className="col-xs-12">
-					    	<h3 id="order-ref">Order Reference: <b>{this.props.match.params.orderRef}</b></h3>
+					    	<h3 id="order-ref" style={{color: 'whitesmoke'}}>Order Reference: <b>{this.props.match.params.orderRef}</b></h3>
 					    	<button id="bookmark-button" type="button" className="btn btn-default btn-simple" onClick={() => this.setState({showBookmarkModal:true})}>BOOKMARK</button>
 					    </div>
 					</div>

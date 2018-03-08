@@ -3,7 +3,7 @@
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
 
-#order { background: #f8f7f8; padding: 15px 0 0 0;
+#order { background: #1e1e1e; padding: 15px 0 0 0;
 	a { color: $green; 
 		&:visited, &:focus { text-decoration: none; }
 		&:hover { text-decoration: underline; }

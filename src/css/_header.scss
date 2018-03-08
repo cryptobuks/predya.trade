@@ -1,7 +1,7 @@
-#header { background: #fff;
+#header { background: #1e1e1e;
 	.btn-just-icon { text-align: left; }
 	.navbar-toggle { top: 11px; }
-	.logo-container { margin: 25px 0 15px 15px; overflow: hidden;
+	.logo-container { margin: 20px 0 15px 15px; overflow: hidden;
 		img { min-width: 150px; }
 		img, h1 { float: left; }
 		h1 { margin: 6px 0 0 10px; font-size: 28px; }
@@ -11,7 +11,7 @@
 	.navbar-nav { margin: 0;
 		li a:hover { text-decoration: underline; background: none; }
 	}
-	a { color: $blue; font-size: 16px;
+	a { color: #f9f9f9; font-size: 16px;
 		&:hover, , &:visited, &:focus, &:active { text-decoration: none; background: none; outline: none; }
 	}
 	ul li a { padding-left: 0; }

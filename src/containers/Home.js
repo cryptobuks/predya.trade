@@ -26,7 +26,7 @@ class Home extends Component {
 		    <Hero />
 		    <RecentOrders />
 		    <Testimonials />
-		    <PriceComparison />
+		    {/* <PriceComparison /> */}
 		    <About />
 		    <SubscriptionForm />
 		  </div>

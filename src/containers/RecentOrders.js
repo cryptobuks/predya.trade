@@ -97,7 +97,7 @@ class OrderStatus extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="col-xs-12">
-							<h2>Recent Orders</h2>
+							<h2 style={{color: 'whitesmoke'}}>Recent Orders</h2>
 
 							<div className="recent-orders-container">
 								{orders.length < 1 ? (

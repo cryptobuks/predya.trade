@@ -64,7 +64,9 @@ class SubscriptionForm extends React.Component {
 				<div className="container text-center">
 					<h2>Get in touch</h2>
 
-					<form action={action} method="post" noValidate>
+					<p><a href="mailto:support@predya.trade">support@predya.trade</a></p>
+
+					{/* <form action={action} method="post" noValidate>
 						<div id="subscription-form-inner">
 
 							<div className="col-xs-12 col-sm-10">
@@ -93,7 +95,7 @@ class SubscriptionForm extends React.Component {
 							</div>
 
 						</div>
-					</form>
+					</form> */}
 				</div>
 			</div>
 		);
