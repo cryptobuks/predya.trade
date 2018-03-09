@@ -53,9 +53,9 @@ class Header extends Component {
 								<a href="/#recent-orders" onClick={() => scrollToElement('#recent-orders')}>Recent Orders</a>
 							</li>
 
-							<li>
+							{/* <li>
 				    			<a href="http://lkokjjojj.epizy.com" target="_blank" onClick={() => ga('send', 'event', 'General', 'buy and sell click')}>Buy and Sell Cryptos</a>
-				    		</li>
+				    		</li> */}
 
 							<li>
 								<a href="/#about" onClick={() => scrollToElement('#about')}>About Predya</a>
