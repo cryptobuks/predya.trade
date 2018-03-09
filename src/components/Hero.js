@@ -15,14 +15,14 @@ const Hero = () => (
 				<div className="col-xs-12">
 					<div className="brand">
 				        <h1>Digital Assets Brokerage</h1>
-				        <h2>Simple. <span className="text-green">Secure</span>. Transparent.</h2>
+				        <h2>Simple. <span className="text-green">Secure</span>. Smart.</h2>
 					</div>
 				</div>
 
 				<ExchangeWidget />
 				<CoinPrices />
 
-				<iframe src="http://lkokjjojj.epizy.com/" className="container" height="1000" frameborder="0" title="UniquesIframe"  allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style={{display: 'inline-block', borderWidth: '0px', overflow: 'hidden', lineHeight: 0, border: 0}} class="mce_SELRES_start"></span></iframe>
+				{/* <iframe src="http://lkokjjojj.epizy.com/" className="container" height="1000" frameborder="0" title="UniquesIframe"  allowfullscreen="allowfullscreen"><span data-mce-type="bookmark" style={{display: 'inline-block', borderWidth: '0px', overflow: 'hidden', lineHeight: 0, border: 0}} class="mce_SELRES_start"></span></iframe> */}
 			</div>
 			
 		</div>

@@ -2,18 +2,21 @@ import React from 'react';
 import TeamMember from './TeamMember';
 
 const About = () => (
-  <div id="about" style={{color: 'whitesmoke'}}>
+  <div id="about" style={{color: '#f9f9f9'}}>
     <div className="container">
       <div className="row">
-        <div className="col-xs-12">
+        <div className="col-xs-12" style={{backgroundColor: 'rgba(0, 0, 0, .7)'}}>
           <h2>About Us</h2>
 
-          <p>Predya is a fast, reliable and fully transparent cryptocurrency exchange built by crypto enthusiasts, for crypto enthusiasts.</p>
-          <p>We are a group of multi-national, multi-disciplinary cryptocurrency professionals.</p>
-          <p>Our team came together to make this platform after seeing firsthand the need for a fast and reliable exchange on the crypto market.</p>
-          <p>We pride ourselves on total transparency: Everything is viewable through our API, starting from order lists and ending with our coin reserves. </p>
-          <p>Predya is built on several core values that guide our team in our day to day operations. Among them are complete transparency, a strive to help make cryptocurrency as accessible as possible and a passion for open source.</p>
-          {/* <p>To support our mission of making crypto accessible to everyone, we’ve made our <b><a href="https://github.com/onitsoft/nexchange-open-client-react" target="_blank">front end client completely open source <i className="fa fa-github" aria-hidden="true"></i></a></b>.</p> */}
+          <p>PREDYA is a professional cryptocurrency exchange platform dedicated to providing a seamless and accessible digital asset trading options for new and existing crypto traders and investors to enter the market.</p>
+
+          <p>With an experienced array of professionals in the field, the PREDYA team is committed to providing simple solutions that removes the complexity and complications often encountered by traders and investors who want to invest in cryptocurrency. We constantly strive to engineer solutions that make the transition of beginners into the market rewarding and exciting.</p>
+
+          <p>Our expert team of financiers, private bankers, IT and security professionals culminate into the highly experienced team that form the backbone of a string analyst, investment and strategist minimalist crypto exchange platform like PREDYA.</p>
+
+          <p>At PREDYA, our strongest qualities have led us to champion innovation and simplicity, emphasizing on attributes such as transparency, security, trust and ingenuity to deliver real-time services that constantly seeks to add value to customers. We are well aware of the risk involved in trading cryptocurrency and seek to avail new and existing traders of a platform where feasible strategies for productivity, profiting and security rules their trade.</p>
+
+          <p>Our team is passionate about financial freedom and flexibility as they leverage their unparalleled understanding of the intricacies of markets to deliver the best-possible trading experience for clients.</p>
         </div>
       </div>
     </div>

@@ -25,10 +25,10 @@ class Home extends Component {
 		  <div>
 		    <Hero />
 		    <RecentOrders />
-		    <Testimonials />
+		    {/* <Testimonials /> */}
 		    {/* <PriceComparison /> */}
 		    <About />
-		    <SubscriptionForm />
+		    {/* <SubscriptionForm /> */}
 		  </div>
 		);
 	}

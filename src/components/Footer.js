@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => (
 	<footer>
-		<div className="container text-center">
+		<div className="container">
 			<ul>
 				<li><Link to="/terms-and-conditions">Terms and Conditions</Link></li>
 				{/* <li><Link to="/privacy">Privacy Policy</Link></li> */}
@@ -14,7 +14,7 @@ const Footer = () => (
 				</li> */}
 			</ul>
 
-			<p className="text-muted">All rights reserved, 2018 Predya</p>
+			<p className="text-muted"><small>PREDYA.TRADE - All rights reserved. Powered by Nexchange.io</small></p>
 		</div>
 	</footer>
 );

@@ -92,7 +92,7 @@ class Support extends Component {
         <div className="modal-content">
           <div className="modal-header">
             <button type="button" className="close" data-dismiss="modal" aria-hidden="true" onClick={this.close}>
-              <i className="material-icons">clear</i>
+              <i className="material-icons">&times;</i>
             </button>
             <h4 className="modal-title">Support</h4>
           </div>
