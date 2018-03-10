@@ -14,7 +14,7 @@ const Footer = () => (
 				</li> */}
 			</ul>
 
-			<p className="text-muted"><small>PREDYA.TRADE - All rights reserved. Powered by Nexchange.io</small></p>
+			<p className="text-muted"><small>PREDYA.TRADE All rights reserved.</small></p>
 		</div>
 	</footer>
 );
